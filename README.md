@@ -3,7 +3,7 @@
 # Use This Colab for this Tool
 Just one click to use
 
-[![link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgeel/BehindTheCDN/blob/main/Behind_cdn.ipynb%5C)
+[![link](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/victorgeel/BehindTheCDN/blob/main/Behind_cdn.ipynb)
 
 Script to find the IP address behind a CDN/WAF  
 **IMPORTANT: The script make use of the API of VirusTotal and Censys, so you need those APIs**  
