@@ -16,7 +16,7 @@ Script to find the IP address behind a CDN/WAF
 - jq
 
 # Instalation
-`git clone https://github.com/Loop-Man/BehindTheCDN` 
+`git clone https://github.com/victorgeel/BehindTheCDN` 
 
 # Configuration
 Set the APIs for virus total and Censys on the `API.conf` file 
